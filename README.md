@@ -30,7 +30,7 @@ The objective of this project is to develop a data-driven visualization solution
 
 ## Folder Structure
 ```
-**Retail-Revenue-Leakage-Tableau-Project**/
+Retail-Revenue-Leakage-Tableau-Project/
 │── README.md
 ├── Data/
 │ └── order_dataset.csv
