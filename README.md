@@ -29,7 +29,7 @@ The objective of this project is to develop a data-driven visualization solution
 ---
 
 ## Folder Structure
-
+```
 **Retail-Revenue-Leakage-Tableau-Project**/
 │── README.md
 ├── Data/
@@ -41,7 +41,7 @@ The objective of this project is to develop a data-driven visualization solution
 │ └── Revenue_Leakage.twbx
 ├── Report/
 │ └── Revenue_Leakage_Analysis.pdf
-
+```
 ---
 
 ## Key Insights
